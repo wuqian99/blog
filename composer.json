@@ -1,6 +1,7 @@
 {
     "name": "wuqian99/blog",
     "description": "Test composer package",
+    "type": "library",
     "authors": [
         {
             "name": "Wu Qian",
