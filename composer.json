@@ -1,0 +1,19 @@
+{
+    "name": "wuqian99/blog",
+    "description": "Test composer package",
+    "authors": [
+        {
+            "name": "Wu Qian",
+            "email": "wuqian6300@163.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "blog\\": "src/"
+        }
+    }
+}
